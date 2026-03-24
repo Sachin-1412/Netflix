@@ -10,7 +10,7 @@ Pure front-end implementation without JavaScript.
 
 #Installation
 
-git clone https://github.com/yourusername/netflix-clone-html-css.git
+git clone https://github.com/Sachin-1412/Netflix.git
 
 #Limitations
 
